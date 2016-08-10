@@ -1,2 +1,2 @@
-# simple-game
+# Virtual-Reality-Solutions
 Example
